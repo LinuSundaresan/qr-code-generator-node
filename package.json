@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "qr code generator using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinuSundaresan/qr-code-generator-node.git"
+  },
+  "author": "Linu S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinuSundaresan/qr-code-generator-node/issues"
+  },
+  "homepage": "https://github.com/LinuSundaresan/qr-code-generator-node#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "qr-image": "^3.2.0"
+  }
+}
