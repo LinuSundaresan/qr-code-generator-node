@@ -16,9 +16,8 @@
     "url": "https://github.com/LinuSundaresan/qr-code-generator-node/issues"
   },
   "homepage": "https://github.com/LinuSundaresan/qr-code-generator-node#readme",
-  "type": "module",
   "dependencies": {
-    "inquirer": "^9.2.16",
+    "inquirer": "^8.0.0",
     "qr-image": "^3.2.0"
   }
 }
